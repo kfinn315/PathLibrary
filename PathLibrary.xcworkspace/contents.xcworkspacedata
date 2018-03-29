@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:PathLibraryDemo/PathLibraryDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PathPhoto/PathPhoto.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PathMap/PathMap.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PathData/PathData.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
